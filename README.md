@@ -21,7 +21,7 @@
 
 ---
 
-<img align="left" alt="ItsSyfe's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ItsSyfer&show_icons=true&hide_border=true" />
+<img align="left" alt="ItsSyfe's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ItsSyfe&show_icons=true&hide_border=true" />
 
 [website]: https://itssyfe.github.io
 [twitter]: https://twitter.com/ItsSyfe

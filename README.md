@@ -26,5 +26,5 @@
 [website]: https://itssyfe.github.io
 [twitter]: https://twitter.com/ItsSyfe
 [youtube]: https://www.youtube.com/channel/UCJDtOcWciOb2RN-Kf4qJ6GA
-[discord]: https://dsc.bio/syfe
+[discord]: https://dsc.bio/does
 

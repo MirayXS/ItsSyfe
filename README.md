@@ -23,6 +23,8 @@
 
 <img align="left" alt="ItsSyfe's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ItsSyfe&theme=dracula&show_icons=true" />
 
+![](https://hit.yhype.me/github/profile?user_id=22247810)
+
 [website]: https://itssyfe.github.io
 [twitter]: https://twitter.com/ItsSyfe
 [youtube]: https://www.youtube.com/channel/UCJDtOcWciOb2RN-Kf4qJ6GA

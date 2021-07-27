@@ -21,7 +21,8 @@
 
 ---
 
-<img align="left" alt="ItsSyfe's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ItsSyfe&theme=dracula&show_icons=true" />
+![ItsSyfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsSyfe&count_private=true&show_icons=true&theme=radical))
+
 
 ![](https://hit.yhype.me/github/profile?user_id=22247810)
 

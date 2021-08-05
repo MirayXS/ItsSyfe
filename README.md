@@ -4,11 +4,9 @@
 
 ### Hi there, I'm [Syfe][website] 👋
 
-## I'm a Student and Developer!
+## I'm a High School Student and Self Taught Developer
 
-- 🔭 I’m currently working on a few different projects, such as a Discord bot!
-- 🌱 I’m currently learning how to develop better in Java and C++.
-- ⚡ Fun fact: I'm deeply fascinated by the universe and its vastness, this continues all throughout science!
+I like to code things. so uh yeah...
 
 ### Contact me:
 
@@ -29,5 +27,5 @@
 [website]: https://itssyfe.github.io
 [twitter]: https://twitter.com/ItsSyfe
 [youtube]: https://www.youtube.com/channel/UCJDtOcWciOb2RN-Kf4qJ6GA
-[discord]: https://dsc.bio/does
+[discord]: https://dsc.bio/syfe
 

@@ -23,7 +23,6 @@
 </div>
 
 <div>
-    <br>
     <h2 align="left">ㅤ$ 𝙣𝙚𝙤𝙛𝙚𝙩𝙘𝙝</h2>
     <p align="center">
         <img height=175 src="https://github-readme-stats.vercel.app/api?username=itssyfe&hide_border=true&show_icons=true&theme=light">

@@ -3,7 +3,7 @@
 -->
 <h1 align="center">$ 𝙘𝙖𝙩 𝙨𝙮𝙛𝙚.𝙥𝙧𝙤𝙛𝙞𝙡𝙚</h1>
 <center>
-    <img src="banner.gif" width=1000 height=600 alt="banner image">
+    <img src="banner.gif" alt="banner image">
 </center>
 
 <div>

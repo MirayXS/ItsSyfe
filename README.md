@@ -19,7 +19,7 @@
 </div>
 <div>
     <h2 align="left">ㅤㅤ$ 𝙘𝙙 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨</h2>
-    <img src="projects.gif" align="left" width=486 height=270 alt="projects image">
+    <img src="projects.gif" align="right" width=486 height=270 alt="projects image">
     <p align="left">I do development on some small projects, most of which I eventually lose interest in but currently I'm working on <a href="https://yutashi.xyz">Yutashi</a>.<br><br><b>So you're wondering what Yutashi is?</b><br>Well Yutashi is a simple project that aims to open up ease of access to readily made profile pictures and banners for Discord, we want to eventually have a community of users that almost are able to run Yutashi on their own simply through contributing profile themes, allowing us to focus just on development of Yutashi itself.</p>
 </div>
 <div>

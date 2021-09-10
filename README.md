@@ -10,8 +10,8 @@
     <ul>
         <li><b>Age: </b>16</li>
         <li><b>Hobbies: </b>Programming, Stargazing</li>
-        <li><b>Favourite Games: </b>Minecraft, Rust, Splitgate</li>
-        <li><b>Favourite Animes: </b>Your Lie in April, SAO, Saiki K, Re:Zero</li>
+        <li><b>Games: </b>Minecraft, Rust, Splitgate</li>
+        <li><b>Animes: </b>Your Lie in April, SAO, Saiki K, Re:Zero</li>
         <li><b>Friends: </b><a href="https://github.com/AquaPlaysYT">Aqua</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a></li>
     </ul>
 </div>

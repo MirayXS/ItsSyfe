@@ -27,7 +27,7 @@
     <h2 align="left">ㅤ$ 𝙣𝙚𝙤𝙛𝙚𝙩𝙘𝙝</h2>
     <p align="center">
         <img height=175 src="https://github-readme-stats.vercel.app/api?username=itssyfe&hide_border=true&show_icons=true&theme=light">
-        <img height=175 src="https://lanyard-profile-readme.vercel.app/api/190733468550823945?theme=light&animated=true&hideDiscrim=true&borderRadius=5px&idleMessage=Waiting%20for%20Liftoff%20🚀">
+        <img height=175 src="https://lanyard-profile-readme.vercel.app/api/190733468550823945?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=5px&idleMessage=Waiting%20for%20Liftoff%20🚀">
         <p align="center"><a href="https://yutashi.xyz">Yutashi</a> - <a href="https://myanimelist.net/animelist/ItsSyfe">MAL</a> - <a href="https://discords.com/bio/p/Syfe">Discord</a></p>
     </p>
 </div>

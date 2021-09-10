@@ -1,7 +1,6 @@
 <!--
 **ItsSyfe/ItsSyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">$ 𝙘𝙖𝙩 𝙨𝙮𝙛𝙚.𝙥𝙧𝙤𝙛𝙞𝙡𝙚</h1>
 <center>
     <img src="banner.gif" alt="banner image">
 </center>

@@ -24,7 +24,6 @@
 
 <div>
     <p align="center">
-        <br>
         <p align="center"><a href="https://yutashi.xyz">Yutashi</a> - <a href="https://myanimelist.net/animelist/ItsSyfe">MAL</a> - <a href="https://discords.com/bio/p/Syfe">Discord</a></p>
     </p>
 </div>

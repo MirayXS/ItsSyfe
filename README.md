@@ -23,7 +23,6 @@
 </div>
 
 <div>
-    <h2 align="left">ㅤ$ 𝙣𝙚𝙤𝙛𝙚𝙩𝙘𝙝</h2>
     <p align="center">
         <p align="center"><a href="https://yutashi.xyz">Yutashi</a> - <a href="https://myanimelist.net/animelist/ItsSyfe">MAL</a> - <a href="https://discords.com/bio/p/Syfe">Discord</a></p>
     </p>

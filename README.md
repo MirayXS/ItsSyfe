@@ -5,7 +5,7 @@
 
 <div align="center">
     <h2 align="left">about me</h2>
-	<img align="right" src="aboutme.webp" height="200" alt="about me">
+	<img align="right" src="aboutme.webp" height="260" alt="about me">
 	<p align="left">im syfe, a sixth-form student taking three a-levels, physics, maths and computer science in the uk.<br>im a self taught developer developing projects that peak my interest, whether that be game related or just an idea.</p>
 	<ul align="left">
 		<li><b>age: </b>17</li>

@@ -2,8 +2,7 @@
 **ItsSyfe/ItsSyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ```math
-\ce{$\unicode[goombafont; color:red; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.35; pointer-events: none; cursor:not-allowed; background-image: url('https://raw.githubusercontent.com/ItsSyfe/ItsSyfe/master/Rin.gif');]{x0000}$}
-test
+\ce{$\unicode[goombafont; color:red; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.35; pointer-events: none; cursor:not-allowed; background-image: url('https://raw.githubusercontent.com/ItsSyfe/ItsSyfe/master/Rin.gif');]{x0000test}$}
 ```
 <img src="banner.png" alt="banner">
 

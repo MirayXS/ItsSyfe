@@ -11,6 +11,6 @@
 	<!--
 	<img align="right" src="aboutme.webp" height="260" alt="about me">
 	-->
-	<p align="left">I'm Syfe, a University student studying Computer Science in the UK.<br>I'm a self taught developer, I've used a variety of languages (JS, Python, C#, C++, Java) to write many tools and mods. Recently starting to learn more about Cyber Security to start bug bounty hunting.</p>
+	<p align="left">I'm Syfe, a University student studying Computer Science in the UK.<br><br>I'm a self taught developer, I've used a variety of languages (JS, Python, C#, C++, Java) to write many tools and mods.<bro><br>Recently starting to learn more about Cyber Security to start bug bounty hunting.</p>
 </div>
 </div>

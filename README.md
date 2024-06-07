@@ -2,9 +2,9 @@
 **ItsSyfe/ItsSyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ```math
-\ce{$\unicode[goombafont; font-size:100vh; text-align:left; color:white; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.1; pointer-events: none;]{0x6E}$}
-\ce{$\unicode[goombafont; font-size:100vh; text-align:center; color:white; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.1; pointer-events: none;]{0x79}$}
-\ce{$\unicode[goombafont; font-size:100vh; text-align:right; color:white; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.1; pointer-events: none;]{0x61}$}
+\ce{$\unicode[goombafont; font-size:75vh; text-align:left; color:white; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.1; pointer-events: none;]{0x6E}$}
+\ce{$\unicode[goombafont; font-size:75vh; text-align:center; color:white; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.1; pointer-events: none;]{0x79}$}
+\ce{$\unicode[goombafont; font-size:75vh; text-align:right; color:white; position: fixed; top: 0; left: -8%; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.1; pointer-events: none;]{0x61}$}
 \ce{$\unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.35; pointer-events: none; background-image: url('https://raw.githubusercontent.com/ItsSyfe/ItsSyfe/master/Rin.gif');]{0x00000}$}
 ```
 <img src="banner.png" alt="banner">

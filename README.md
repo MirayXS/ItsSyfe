@@ -1,9 +1,6 @@
 <!--
 **ItsSyfe/ItsSyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-```math
-\ce{$\unicode[goombafont; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover; background-position: center; width: 100vw; opacity: 0.35; pointer-events: none; background-image: url('https://raw.githubusercontent.com/ItsSyfe/ItsSyfe/master/Rin.gif');]{0x00000}$}
-```
 <img src="banner.png" alt="banner">
 
 <div align="center">
